@@ -1,16 +1,18 @@
-## Hi there 👋
+🧑‍💻 **Desenvolvedor Full-Stack**
 
-<!--
-**luisguiborborema/luisguiborborema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Vila Velha(UVV). Desenvolvedor Full Stack. Especialista em automação, IA e dados, entrego soluções digitais com impacto direto em resultados e receita.
 
-Here are some ideas to get you started:
+🔗 Confira meus projetos e saiba mais sobre [Guilherme Boborema]([https://luisguiborborema.github.io/BorboremaPortolio/) no meu portfólio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✉️ Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/guiherme-borborema/) - onde compartilho conteúdo e insights de programação.
+📧 [Envie um e-mail](mailto:gui.borborema.it@gmail.com) para colaborações ou oportunidades.
+
+---
+
+---
+
+### Minhas Habilidades e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,cs,css,html,php,aws,docker,mysql,postgres,linux,vscode,figma,git,github alt="Minhas Habilidades">
+  </p>
