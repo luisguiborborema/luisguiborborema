@@ -15,4 +15,4 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,cs,css,html,php,aws,docker,mysql,postgres,linux,vscode,figma,git,github alt="Minhas Habilidades">
-  </p>
+</p>
